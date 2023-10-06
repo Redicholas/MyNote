@@ -1,6 +1,6 @@
 ![Screenshot 2023-10-03 at 17 35 55](https://github.com/Redicholas/MyNote/assets/95872411/95297f77-7e9e-42a0-bb19-c0ab6cf3c44f)
 
-This is a practice project I made to try out Next.js, shadcn, next-auth and prisma.
+# This is a practice project I made to try out Next.js, shadcn, next-auth and prisma.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
